@@ -1,5 +1,5 @@
-![Tekura Teimu's github stats](https://github-readme-stats.vercel.app/api?username=diglateam3&show_icons=true&count_private=true)
-
+![Tekura Teimu's github stats](https://github-readme-stats.vercel.app/api?username=diglateam3&show_icons=true&count_private=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diglateam3)
 <!--
 **diglateam3/diglateam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
